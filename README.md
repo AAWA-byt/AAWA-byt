@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center">Hi 👋, I'm AAWA-byt</h1>
 <h3 align="center">I am developer from germany!</h3>
 
@@ -31,4 +30,4 @@ Here are some ideas to get you started:
 <br><br><br><br><br><br><br>
 
 # GitHub Stats
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aawa-byt&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="aawa-byt" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aawa-byt&show_icons=true&count_private=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="aawa-byt" /></p>
