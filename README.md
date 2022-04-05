@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 # Contact
 <p>
-  <a href="mailto:arwak1969@gmail.com">AAWA-byt</a>
+  <a href="mailto:aawa.byt@gmail.com">AAWA-byt</a>
 </p>
 
 # Languages and Tools
