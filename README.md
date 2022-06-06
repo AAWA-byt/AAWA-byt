@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 # Contact
 <p>
-  <a href="mailto:support@aaronwagner.earth">AAWA-byt</a>
+  <a href="mailto:support@aaronwagner.earth">support@aaronwagner.earth</a>
 </p>
 
 # Languages and Tools
