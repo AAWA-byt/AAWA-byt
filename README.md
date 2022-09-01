@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm AAWA-byt</h1>
 <h3 align="center">I am developer from germany!</h3>
 
-# Social Media
-<p align="left">
-<a href="https://twitter.com/aawa_byt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aawa_byt" height="30" width="40" /></a>
-<a href="https://instagram.com/_aaron_wagner_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aaron_wagner" height="30" width="40" /></a>
-</p>
 
 # Languages and Tools
 <p align="left">
